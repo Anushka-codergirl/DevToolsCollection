@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,500&display=swap");
+* {
+  box-sizing: border-box;
+}
+App {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+iframe {
+  height: 300px;
+}
+
+footer {
+  background-color: #222;
+  color: #fff;
+}
+
+footer a {
+  color: #fff;
+  text-decoration: none;
+}
+
+footer i {
+  color: red;
+}
+
+a:hover {
+  color: red;
+  text-decoration: none;
+}
