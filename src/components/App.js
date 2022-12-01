@@ -238,6 +238,11 @@ const Data = {
       links: "https://coolors.co/"
     },
     {
+      Desc: "Branition Colors",
+      Tags: "Colors",
+      links: "https://branition.com/colors"
+    },
+    {
       Desc: "Fonts",
       Tags: "Typography",
       links: "https://1001fonts.com/"
