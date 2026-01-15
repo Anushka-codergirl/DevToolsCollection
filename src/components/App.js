@@ -125,12 +125,12 @@ const Data = {
     {
       Desc: "Sizzy",
       Tags: "Web Browser",
-      links: "sizzy.co"
+      links: "https://sizzy.co/"
     },
     {
       Desc: "Whatruns",
       Tags: "Web Browser Extension",
-      links: "sizzy.co"
+      links: "https://www.whatruns.com/"
     },
     {
       Desc: "Netlify",
@@ -286,11 +286,6 @@ const Data = {
       Desc: "Spotify",
       Tags: "Music",
       links: "https://spotify.com"
-    },
-    {
-      Desc: "Shieldfy",
-      Tags: "React",
-      links: "https://shieldfy.io/"
     }
   ]
 };
